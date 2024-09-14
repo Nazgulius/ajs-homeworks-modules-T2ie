@@ -1,7 +1,3 @@
-class Character {
+export default class Character {
   
 }
-
-const defaultDomain = new Character();
-
-export default defaultDomain;
